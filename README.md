@@ -32,8 +32,8 @@ Inside of your Astro project, you'll see the following folders and files:
 ├── public/
 ├── src/
 │   │
-│   └── layouts/BaseLayout.astro
-│   │
+│   └── layouts/
+│   │   └── BaseLayout.astro
 │   └── pages/
 │       └── index.astro
 └── package.json
