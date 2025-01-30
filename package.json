@@ -3,7 +3,6 @@
   "type": "module",
   "version": "0.0.1",
   "license": "ISC",
-  "packageManager": "bun@1.2.1",
   "author": "unibox <unibox@duck.com>",
   "scripts": {
     "dev": "bunx --bun astro dev",
