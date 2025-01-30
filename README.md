@@ -5,16 +5,16 @@ You need bun installed to use this template or modify package.json to use anothe
 - delete "bunx --bun" in all scripts
 - modify "packagemanager" property to selected package manager
 
-##To install bun on macOs, Linux, WSL:
+## To install bun on macOs, Linux, WSL:
 
 - curl -fsSL https://bun.sh/install | bash
 
-##To install bun on Windows:
+## To install bun on Windows:
 
 - powershell -c "irm bun.sh/install.ps1|iex"
 
 ````sh
-bunx create-astro@latest --template uniboxx/bun-react-tailwind-template
+  bunx create-astro@latest --template uniboxx/bun-react-tailwind-template
 
 
 
