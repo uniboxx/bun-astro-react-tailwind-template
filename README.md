@@ -20,7 +20,7 @@ powershell -c "irm bun.sh/install.ps1|iex"
 ## To create the project with bun (for other package managers read astro docs)
 
 ```sh
-bunx create-astro@latest <project-name> --template uniboxx/bun-astro-react-tailwind-template
+bunx create-astro@latest <project-name> --template uniboxx/bun-astro-react-tailwind-template -y
 ```
 
 ## 🚀 Project Structure
