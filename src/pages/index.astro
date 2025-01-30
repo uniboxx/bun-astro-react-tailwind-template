@@ -1,0 +1,11 @@
+---
+import Counter from '../components/Counter';
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout pageTitle="Homepage">
+  <h2 class="text-blue-600 text-3xl">Sottotitolo</h2>
+  <Counter client:load />
+</BaseLayout>
+
+<style></style>
