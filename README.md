@@ -7,16 +7,19 @@ You need bun installed to use this template or modify package.json to use anothe
 
 ## To install bun on macOs, Linux, WSL:
 
-- curl -fsSL https://bun.sh/install | bash
+```sh
+curl -fsSL https://bun.sh/install | bash
+```
 
 ## To install bun on Windows:
 
-- powershell -c "irm bun.sh/install.ps1|iex"
+```sh
+powershell -c "irm bun.sh/install.ps1|iex"
+```
 
-````sh
-    bunx create-astro@latest --template uniboxx/bun-react-tailwind-template
-
-
+```sh
+bunx create-astro@latest --template uniboxx/bun-react-tailwind-template
+```
 
 ## 🚀 Project Structure
 
@@ -32,7 +35,7 @@ Inside of your Astro project, you'll see the following folders and files:
 │   └── pages/
 │       └── index.astro
 └── package.json
-````
+```
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
