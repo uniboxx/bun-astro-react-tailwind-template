@@ -1,5 +1,5 @@
 {
-  "name": "astro-02",
+  "name": "astro-project",
   "type": "module",
   "version": "0.0.1",
   "license": "ISC",
@@ -11,7 +11,7 @@
     "preview": "bunx --bun astro preview",
     "astro": "bunx --bun astro"
   },
-   "dependencies": {
+  "dependencies": {
     "@astrojs/react": "^4.2.0",
     "@astrojs/tailwind": "^6.0.0",
     "@tailwindcss/vite": "^4.0.1",
