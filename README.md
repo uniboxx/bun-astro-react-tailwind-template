@@ -3,7 +3,6 @@
 You need bun installed to use this template or modify package.json to use another package manager:
 
 - delete "bunx --bun" in all scripts
-- change the "packagemanager" property value to the selected package manager
 
 ## To install bun on macOs, Linux, WSL:
 
