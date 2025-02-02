@@ -1,8 +1,6 @@
 # Astro Kit: With React and Tailwind
 
-You need bun installed to use this template or modify package.json to use another package manager:
-
-- delete "bunx --bun" in all scripts
+You need bun installed to use this template
 
 ## To install bun on macOs, Linux, WSL:
 
